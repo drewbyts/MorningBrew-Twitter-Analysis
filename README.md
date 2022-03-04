@@ -1,6 +1,4 @@
-# Hello 👋
-
-## Morning Brew Twitter API Analysis
+# Morning Brew Twitter API Analysis
 
 #### Understanding
 ###### engagement patterns
