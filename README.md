@@ -1,14 +1,4 @@
-# Morning Brew Twitter API Analysis
-
-#### Understanding
-###### engagement patterns
-
-#### Solving
-###### a personal hypothesis
-
-#### Finding
-###### tweets of significance
-
+# Morning Brew Twitter API Analysis 👨‍💻
 
 # Goal 
 The goal of the following was to access the Twitter API and uncover quick insights about the engagement between Morning Brew  and its community. 
